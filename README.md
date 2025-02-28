@@ -1,16 +1,20 @@
-## Hi there 👋
+﻿### Hi I'm Jack Wang 😊
 
-<!--
-**JackWang0318/JackWang0318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Currently I am a Master of Science student in ECE of MLDS track @ **UC San Diego** ☀️🌊🧜‍♂️!
+- Before that, I did my undergrad @ **Shanghai University**
 
-Here are some ideas to get you started:
+<!-- https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+JackWang's+GitHub+page!" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=JackWang0318&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+<br/>
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=JackWang0318&theme=github-compact&hide_border=true&area=true">
+<br/>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackWang0318&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+</br>
